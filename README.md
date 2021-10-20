@@ -7,4 +7,9 @@
  - Forecasting of future listings for the year of 2021.
 
 **Tools used**
- - Time-series forecasting using statistical modelling and machine learning
+ - Statistical models
+   - Univariate time-series modelling: Transformation, decomposition
+   - ARIMA model
+ - Machine Learning models
+   - Additive or component based models (Facebook Prophet package)
+   - Recurrent Neural Networks (RNNs): Long-Short Term Memory Networks (LSTMs)
