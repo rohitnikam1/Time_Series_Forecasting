@@ -10,6 +10,6 @@
  - Statistical models
    - Univariate time-series modelling: Transformation, decomposition
    - ARIMA model
- - Machine Learning models
    - Additive or component based models (Facebook Prophet package)
+ - Machine Learning models
    - Recurrent Neural Networks (RNNs): Long-Short Term Memory Networks (LSTMs)
