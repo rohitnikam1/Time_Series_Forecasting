@@ -12,4 +12,4 @@
    - ARIMA model
    - Additive or component based models (Facebook Prophet package)
  - Machine Learning models
-   - Recurrent Neural Networks (RNNs): Long-Short Term Memory Networks (LSTMs)
+   - Recurrent Neural Networks (RNNs): Long Short-Term Memory Networks (LSTMs)
